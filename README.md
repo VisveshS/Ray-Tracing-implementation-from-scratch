@@ -12,6 +12,6 @@ RAY-CASTING from scratch
 
 ![Image of Yaktocat](https://raw.githubusercontent.com/VisveshS/Ray-Casting-implementation-from-scratch/master/RayCasting/Part2.png)
 
-**Part 3: refractions, lighting and shadows**
+**Part 3: reflections,refractions, lighting and shadows**
 
 ![Image of Yaktocat](https://raw.githubusercontent.com/VisveshS/Ray-Casting-implementation-from-scratch/master/RayCasting/Part3.png)
