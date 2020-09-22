@@ -5,13 +5,13 @@ RAY-CASTING from scratch
 
 **Part 1: only lighting and shadows**
 
-![Image of Yaktocat](https://raw.githubusercontent.com/VisveshS/PacMan-OpenGL/master/20171133_Assign1/pm1.png)
+![Image of Yaktocat](https://raw.githubusercontent.com/VisveshS/Ray-Casting-implementation-from-scratch/master/RayCasting/Part1.png)
 
 **Part 2: reflections, lighting and shadows**
 
 
-![Image of Yaktocat](https://raw.githubusercontent.com/VisveshS/PacMan-OpenGL/master/20171133_Assign1/pm1.png)
+![Image of Yaktocat](https://raw.githubusercontent.com/VisveshS/Ray-Casting-implementation-from-scratch/master/RayCasting/Part2.png)
 
 **Part 3: refractions, lighting and shadows**
 
-![Image of Yaktocat](https://raw.githubusercontent.com/VisveshS/PacMan-OpenGL/master/20171133_Assign1/pm1.png)
+![Image of Yaktocat](https://raw.githubusercontent.com/VisveshS/Ray-Casting-implementation-from-scratch/master/RayCasting/Part3.png)
