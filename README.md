@@ -3,6 +3,8 @@ RAY-CASTING from scratch
 
 **<u>execute with</u>:** python3 *filename*
 
+***NOTE:*** images are generated procedurally
+
 **Part 1: only lighting and shadows**
 
 ![Image of Yaktocat](https://raw.githubusercontent.com/VisveshS/Ray-Casting-implementation-from-scratch/master/RayCasting/Part1.png)
