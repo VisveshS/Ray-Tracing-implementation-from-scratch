@@ -1,4 +1,4 @@
-RAY-CASTING from scratch
+RAY-Tracing from scratch
 =
 
 **<u>execute with</u>:** python3 *filename*
